@@ -29,6 +29,7 @@ It is a simple Maven-based project that shows how to configure Hibernate, connec
 ---
 
 ## 📂 Project Structure
+
 HibernateProj
 │
 ├── src/main/java
@@ -41,3 +42,9 @@ HibernateProj
 │
 ├── pom.xml
 └── README.md
+
+
+
+
+
+
